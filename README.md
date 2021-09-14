@@ -1,6 +1,6 @@
 # Proof of Authority Development Chain
 
-The following documentation describes how to set up a private testnet that can be used to explore the potential for blockchain.  By setting us a testnet developer have the freedom to experiment because there is no actual money involved and it allows for offline development.  In order to set up the testnet, puppeth was used to generate the genesis block and geth, a command-line tool, was used to create keys, initialize nodes, and connect the nodes together via a Clique Proof of Authority concensus algorithm. Test transactions can be performed using MyCrypto, an open-source, client-side interface that allows you to interact directly with the blockchainDocumentation on how to start it using the pre-configured
+The following documentation describes how to set up a private testnet that can be used to explore the potential for blockchain.  By setting us a testnet developer have the freedom to experiment because there is no actual money involved and it allows for offline development.  In order to set up the testnet, puppeth was used to generate the genesis block and geth.  A command-line tool, was used to create keys, initialize nodes, and connect the nodes together via a Clique Proof of Authority concensus algorithm. Test transactions can be performed using MyCrypto, an open-source, client-side interface that allows you to interact directly with the blockchainDocumentation on how to start it using the pre-configured
 nodes and accounts is included in the repo.
 
 ---
